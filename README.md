@@ -2,4 +2,8 @@
 
 ![](https://i.imgur.com/UEnvih2l.png)
 
-Tic Tac Toe is a student project built with Javascript. This is part of the General Assembly web development course.
+Tic Tac Toe is a student project built with Javascript. It is part of my General Assembly web development course in 2016.
+
+### Screenshot
+
+![](https://i.imgur.com/HhY6KVg.png)
